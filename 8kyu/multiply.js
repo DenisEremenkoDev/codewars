@@ -4,6 +4,5 @@ function multiply(a, b) {
 
 }
 
-console.log(multiply(2, 1));
 
 
