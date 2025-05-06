@@ -11,12 +11,12 @@ console.log(solution("world"));
 
 
 
-function solution(str) {
-    let reversed = ""
-    for (let i = str.length - 1; i >= 0; i--) {
-        reversed += str[i];
-    }
-    return reversed
-}
+// function solution(str) {
+//     let reversed = ""
+//     for (let i = str.length - 1; i >= 0; i--) {
+//         reversed += str[i];
+//     }
+//     return reversed
+// }
 
-console.log(solution("world"));
+// console.log(solution("world"));
