@@ -6,9 +6,6 @@
 // "-7" --> -7
 
 
-const stringToNumber = function (str) {
-    // put your code here
+const stringToNumber = (str) => {
     return parseFloat(str)
-
 }
-console.log("-7");
