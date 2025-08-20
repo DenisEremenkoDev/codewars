@@ -16,5 +16,9 @@
 
 // console.log(opposite(-2.41));
 
-let opposite = (number) => number < 0 ? (number += (-number * 2)) : (number -= (number * 2))
-console.log(opposite(-2.41));
+// let opposite = (number) => number < 0 ? (number += (-number * 2)) : (number -= (number * 2))
+// console.log(opposite(-2.41));
+
+function opposite(number) {
+    return (-number);
+}
